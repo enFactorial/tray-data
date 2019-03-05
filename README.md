@@ -7,12 +7,8 @@ Identify all items in a tray.
 ## Data
 
 Entire data set is available here:<br>
-<a href="all_data_HiRes.7z.001">all_data_HiRes.7z.001</a>, <br>
-<a href="all_data_HiRes.7z.002">all_data_HiRes.7z.002</a>, <br>
-<a href="all_data_HiRes.7z.003">all_data_HiRes.7z.003</a>, <br>
-<a href="all_data_HiRes.7z.004">all_data_HiRes.7z.004</a>, <br>
-<a href="all_data_HiRes.7z.005">all_data_HiRes.7z.005</a>, <br>
-<a href="all_data_LoRes.7z">all_data_LoRes.7z</a><br>
+<a href="https://drive.google.com/file/d/1smbsz8AJ-VGhKbtr7NTvAVzTI3auI_C4/view?usp=sharing">all_data_HiRes.7z</a>, <br>
+<a href="https://drive.google.com/file/d/1wZ-AHv4yx_lXGeaqKzbTNuap6mpESyEq/view?usp=sharing">all_data_LoRes.7z</a><br>
 *HiRes data set consists of images at 325x325 pixels resolution.*<br>
 *LoRes data set conststs of images at 64x64 pixels resolution.*
 <br><br>
@@ -31,4 +27,4 @@ Per class data set is available here.
 | L2_S1_S5   |                 | ![](img/L2_S1_S5.png) | <a href="L2_S1_S5_HiRes.7z">L2_S1_S5_HiRes.7z</a> | <a href="L2_S1_S5_LoRes.7z">L2_S1_S5_LoRes.7z</a> |
 | L1_S1_S4_S5 | Unknown item added  | ![](img/L1_S1_S4_S5.png) | <a href="L1_S1_S4_S5_HiRes.7z">L1_S1_S4_S5_HiRes.7z</a> | <a href="L1_S1_S4_S5_LoRes.7z">L1_S1_S4_S5_LoRes.7z</a> |
 
-Last updated: 2019-01-25
+Last updated: 2019-03-04
